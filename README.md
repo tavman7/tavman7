@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @tavman7 (Tavis Pitt), Lead Architect for Diego Instruction Language Consortium
+- 👀 I’m interested in robotics, IoT
+- 🌱 I’m currently developing the diego instructional language [diego](http://diegolang.org)
+- 💞️ I’m looking for people and robots to collaborate on the Diego instructional language.  Any help appreciated.
+- 📫 How to reach me tavis.pitt@diegolang.org
